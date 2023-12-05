@@ -1,0 +1,25 @@
+body {
+    margin: 0; 
+    display: flex;
+    justify-content: space-between;
+    background-color: #E5F2E1; 
+    color: black; 
+  }
+  
+  .profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .profile {
+    width: 33%; 
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .profile-header {
+    margin-bottom: 10px;
+  }
+  
