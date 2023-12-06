@@ -11,6 +11,12 @@ const Profile = () => {
         </header>
         <section>
           <p>
+          📍 Newsroom Engineering @ The Washington Post
+          </p>
+          <p>
+          🌐 San Francisco, California
+          </p>
+          <p>
             I build tools that enhance a newsroom's storytelling capacity, deliver forward-thinking solutions that expand the reporting capabilities of journalists, and contribute to high-impact investigative and visual editorial projects.
           </p>
           <p>
