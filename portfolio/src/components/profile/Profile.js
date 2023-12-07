@@ -17,7 +17,7 @@ const Profile = () => {
           🌐 San Francisco, California
           </p>
           <p>
-            I build tools that enhance a newsroom's storytelling capacity, deliver forward-thinking solutions that expand the reporting capabilities of journalists, and contribute to high-impact investigative and visual editorial projects.
+            I build tools that enhance a newsroom's storytelling capacity, deliver forward-thinking solutions that expand the reporting capabilities of journalists and contribute to high-impact investigative and visual editorial projects.
           </p>
           <p>
             I'm interested in data-driven news projects, visual storytelling and building tools for reporters.
